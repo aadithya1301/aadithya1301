@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a project**
+ 🔭 I’m currently working on developing **a game**
  
- 🌱 I’m currently learning **Game Development, React and Firebase**
+ 🌱 I’m currently learning **Unreal Engine and Blender**
 
  </div>
  
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,cpp,mysql" /><br>
 </div>
 
 <br/>
