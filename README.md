@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aadithya+Rajesh!;" />
 </h1>
 
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate robotics engineer</h3>
 
 <br/>
 
