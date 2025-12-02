@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Agriculture Based Robotics Project**
  
- 🌱 I’m currently learning **Reinforcement Learning and ROS 2**
+ 🌱 I’m currently learning **Computer Vision and ROS 2**
 
  </div>
  
