@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Computer Vision Project**
+ 🔭 I’m currently working on **Odometry Project**
  
- 🌱 I’m currently learning **Computer Vision and ROS 2**
+ 🌱 I’m currently learning **Gazebo and Rviz**
 
  </div>
  
