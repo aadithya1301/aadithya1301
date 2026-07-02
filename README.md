@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,ros,arduino,linux,opencv,git" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,ros2,arduino,linux,opencv,git" />
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi" /><br>
 </div>
 
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
